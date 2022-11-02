@@ -6,7 +6,13 @@ import { getDatabase, ref, set, child, get } from "https://www.gstatic.com/fireb
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  //Điền thông tin Firebase config của cá nhân vào đây
+  apiKey: "AIzaSyAovUNq3KSnWhRZ1kUbiLvQvKd9QdBRwvQ",
+  authDomain: "kc236-t3.firebaseapp.com",
+  databaseURL: "https://kc236-t3-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "kc236-t3",
+  storageBucket: "kc236-t3.appspot.com",
+  messagingSenderId: "899266371525",
+  appId: "1:899266371525:web:166d1b04ab4fc1efa175ac"
   
 };
 
