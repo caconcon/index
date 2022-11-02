@@ -6,7 +6,6 @@ import { getDatabase, ref, set, child, get } from "https://www.gstatic.com/fireb
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-
   //Điền thông tin Firebase config của cá nhân vào đây
   
 };
